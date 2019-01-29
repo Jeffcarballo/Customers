@@ -1,11 +1,3 @@
-/*
-Jeffrey Carballo
-CSMY 167-002
-The program allows user to choose various options from the menu and manipulate a list of Cusotmers. 
-It took me about 24-36 hours to complete this assignment.
-Hardest part was trying to figure out how to put Customer[] customers in a list.
-*/
-/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
